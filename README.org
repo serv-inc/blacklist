@@ -1,5 +1,13 @@
 * blacklist
   Blocks biggest adult sites.
 ** Versions
+*** 0.1.0
+**** Fix
+     did not include subdomains
 *** 0.0.1
     first version
+** Credits
+   - icon from https://freeiconshop.com/icon/clipboard-list-icon-glyph/
+   - lists from http://dsi.ut-capitole.fr/blacklists/download (adult),
+     and http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
+     (top-million sites)
