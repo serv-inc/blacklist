@@ -1,6 +1,14 @@
 * blacklist
-  Blocks biggest adult sites.
+  Blocks the biggest adult sites.
 ** Versions
+*** 0.2.1
+**** Failed debugging on Firefox
+     due to the =chrome.runtime.id= API not giving the extension ID
+     while testing
+*** 0.2.0
+**** Failed on Chromium
+     due to using an API to block which was not working (due to too
+     many pages) the API worked on Firefox
 *** 0.1.0
 **** Fix
      did not include subdomains
