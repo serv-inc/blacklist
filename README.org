@@ -5,7 +5,7 @@
 **** Had
      old version of sites
 **** Lacked
-     other top-1m-lists: majestic_million and ciscoeee
+     other top-1m-lists: majestic_million and cisco-eze
 *** 0.2.1
 **** Failed debugging on Firefox
      due to the =chrome.runtime.id= API not giving the extension ID
