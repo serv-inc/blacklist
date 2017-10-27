@@ -24,5 +24,7 @@
 ** Credits
    - icon from https://freeiconshop.com/icon/clipboard-list-icon-glyph/
    - lists from http://dsi.ut-capitole.fr/blacklists/download (adult),
-     and http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
-     (top-million sites)
+     and (top-million sites)
+     - http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
+     - http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip
+     - http://downloads.majestic.com/majestic_million.csv
