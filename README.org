@@ -1,5 +1,8 @@
 * blacklist
   Blocks the biggest adult sites.
+
+  [[https://addons.mozilla.org/de/firefox/addon/adultblacklist/][https://img.shields.io/amo/v/adultblacklist.svg]]
+[[https://chrome.google.com/webstore/detail/jsguardian/nlaagnlbhaoodpoaoigcjpepnhbkimnb][https://img.shields.io/chrome-web-store/v/nlaagnlbhaoodpoaoigcjpepnhbkimnb.svg]]
 ** Versions
 *** 0.3.0
 **** Had
