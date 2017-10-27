@@ -1,6 +1,11 @@
 * blacklist
   Blocks the biggest adult sites.
 ** Versions
+*** 0.3.0
+**** Had
+     old version of sites
+**** Lacked
+     other top-1m-lists: majestic_million and ciscoeee
 *** 0.2.1
 **** Failed debugging on Firefox
      due to the =chrome.runtime.id= API not giving the extension ID
@@ -9,6 +14,8 @@
 **** Failed on Chromium
      due to using an API to block which was not working (due to too
      many pages) the API worked on Firefox
+**** Had
+     less compressed Regular Expression
 *** 0.1.0
 **** Fix
      did not include subdomains
