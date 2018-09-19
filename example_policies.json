@@ -1,0 +1,12 @@
+{
+  "policies": {
+    "Extensions": {
+	"Install": [
+	    "https://addons.mozilla.org/firefox/downloads/file/1081866/adultblacklist-0.4.0-an+fx.xpi"
+	],
+	"Locked": [
+	    "{b4eda7b1-2bbe-4961-b336-aaad77d87a47}"
+	]
+    }
+  }
+}

@@ -5,3 +5,6 @@
 
 document.querySelector("#page").innerText = decodeURIComponent(document.location.search.slice(1));
 
+if ( /Google Inc/.test(navigator.vendor) ) {
+  document.querySelector("#review").href = "https://chrome.google.com/webstore/detail/nlaagnlbhaoodpoaoigcjpepnhbkimnb";
+}
