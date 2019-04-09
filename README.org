@@ -4,6 +4,11 @@
   [[https://addons.mozilla.org/de/firefox/addon/adultblacklist/][https://img.shields.io/amo/v/adultblacklist.svg]]
 [[https://chrome.google.com/webstore/detail/jsguardian/nlaagnlbhaoodpoaoigcjpepnhbkimnb][https://img.shields.io/chrome-web-store/v/nlaagnlbhaoodpoaoigcjpepnhbkimnb.svg]]
 ** Versions
+*** 0.5.0: Used older lists
+    - amazon top-1m and adult list were older
+      - so that main russian sites were not recognized
+    - adult list lacked auto-update feature
+*** 0.4.1: Blockpage was uglier
 *** 0.3.0
 **** Had
      old version of sites
